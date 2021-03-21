@@ -1,0 +1,25 @@
+{
+  "name": "hw2_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VavaIkelman/hw2_webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VavaIkelman/hw2_webpack/issues"
+  },
+  "homepage": "https://github.com/VavaIkelman/hw2_webpack#readme",
+  "devDependencies": {
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
